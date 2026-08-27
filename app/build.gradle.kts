@@ -76,6 +76,7 @@ dependencies {
     implementation(libs.maps.compose)
     implementation(libs.play.services.maps)
     implementation(libs.play.services.location)
+    implementation(libs.places)
 
     testImplementation(libs.junit)
 }
